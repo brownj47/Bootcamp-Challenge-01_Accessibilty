@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb; /* Changed header color to match the website theme */
     color: #ffffff;
 }
 
@@ -21,7 +21,8 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #000000; /* Changed font color to increase contrast */
+    font-size: 55px; /* Changed font size to increase contrast */
 }
 
 .header div {
