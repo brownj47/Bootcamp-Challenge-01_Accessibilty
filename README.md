@@ -1,2 +1,6 @@
 # Bootcamp-Challenge-01_Accessibilty
-Editing a website to ensure accessibility, as well as clean up the code. 
+
+* In this project, I took an existing webpage and refactored the code to remove redundant classes, as well as add semantic labels to the elements on the page.
+
+
+* The deployed webpage can be found at: https://brownj47.github.io/Bootcamp-Challenge-01_Accessibilty/
