@@ -4,3 +4,5 @@
 
 
 * The deployed webpage can be found at: https://brownj47.github.io/Bootcamp-Challenge-01_Accessibilty/
+
+![](./assets/images/Screen Shot 2022-06-17 at 2.44.03 PM.png)
